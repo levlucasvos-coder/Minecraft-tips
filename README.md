@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Minecraft Tips</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e8f5e9;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #2e7d32;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .tip {
+            background-color: white;
+            border-left: 5px solid #4caf50;
+            margin-bottom: 15px;
+            padding: 15px;
+            transition: 0.2s;
+        }
+
+        .tip:hover {
+            background-color: #f1f8e9;
+            transform: scale(1.01);
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #2e7d32;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>⛏️ Minecraft Tips</h1>
+    <p>15 handige tips om beter te worden in Minecraft!</p>
+</header>
+
+<section>
+
+    <div class="tip">
+        <h2>🏠 Tip 1: Bouw een veilige schuilplaats</h2>
+        <p>Zorg dat je vóór de eerste nacht een huis hebt om monsters te vermijden.</p>
+    </div>
+
+    <div class="tip">
+        <h2>⛏️ Tip 2: Graaf nooit recht naar beneden</h2>
+        <p>Je kunt in lava of een diepe grot vallen. Graaf liever in een trap.</p>
+    </div>
+
+    <div class="tip">
+        <h2>💎 Tip 3: Diamanten vinden</h2>
+        <p>Diamanten vind je het best diep onder de grond, rond hoogte -59.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🍖 Tip 4: Neem altijd eten mee</h2>
+        <p>Zonder eten kun je niet genezen of sprinten.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🛏️ Tip 5: Maak snel een bed</h2>
+        <p>Met een bed kun je de nacht overslaan en je spawnpunt instellen.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🔥 Tip 6: Gebruik fakkels slim</h2>
+        <p>Plaats fakkels rechts tijdens het minen, zo vind je makkelijk de weg terug.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🧭 Tip 7: Maak een kompas</h2>
+        <p>Een kompas wijst altijd naar je spawnpunt.</p>
+    </div>
+
+    <div class="tip">
+        <h2>⚔️ Tip 8: Maak een schild</h2>
+        <p>Een schild beschermt je tegen pijlen en vijanden.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🐄 Tip 9: Start een boerderij</h2>
+        <p>Met dieren en gewassen heb je altijd eten.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🔮 Tip 10: Enchant je spullen</h2>
+        <p>Enchantments maken je tools en wapens sterker.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🏹 Tip 11: Neem een boog mee</h2>
+        <p>Van afstand vechten is veiliger.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🌋 Tip 12: Wees voorzichtig met lava</h2>
+        <p>Lava kan je snel verrassen tijdens het minen.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🗺️ Tip 13: Verken met coördinaten</h2>
+        <p>Met F3 zie je waar je bent en raak je minder snel verdwaald.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🐺 Tip 14: Tem een wolf</h2>
+        <p>Wolven kunnen je helpen vechten en beschermen.</p>
+    </div>
+
+    <div class="tip">
+        <h2>🚪 Tip 15: Gebruik hekken in plaats van deuren</h2>
+        <p>Monsters kunnen geen hekken openen.</p>
+    </div>
+
+</section>
+
+<footer>
+    <p>Gemaakt door jou 😄 | Minecraft Tips Website</p>
+</footer>
+
+</body>
+</html>
